@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
+//Java Mini Project 
 class User {
     private String username;
     private String password;
